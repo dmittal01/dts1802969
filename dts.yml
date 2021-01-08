@@ -23,4 +23,4 @@ steps:
     script: |
       # Write your PowerShell commands here.
       
-      Start-Sleep -s 600
+      Start-Sleep -s 180

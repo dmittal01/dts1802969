@@ -3,12 +3,12 @@ trigger:
   branches:
     include:
     - master
-    - release
+    - repro
 pr:
   branches:
     include:
     - master
-    - release
+    - repro
     
 pool:
   vmImage: 'ubuntu-latest'

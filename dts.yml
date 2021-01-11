@@ -2,12 +2,12 @@ trigger:
   batch: true
   branches:
     include:
-    - master
+    - main
     - repro
 pr:
   branches:
     include:
-    - master
+    - main
     - repro
     
 pool:
